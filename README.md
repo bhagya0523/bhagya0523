@@ -16,12 +16,6 @@ enter the IT industry. I’m willing to bring my academic knowledge and motivate
 
 
 
-### 🖥 Skills
-
-- Software Development
-- Programming
-- Data Analytics
-- UI Design
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=414040) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=414040) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=414040) ![Bootstrap](https://img.shields.io/badge/-NLP-05122A?style=flat-square&logo=NLP&color=414040) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=414040) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=414040) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=414040) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=414040) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=414040) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=414040) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=414040) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=flat-square&logo=Figma&color=414040) ![Bootstrap](https://img.shields.io/badge/-JIra-05122A?style=flat-square&logo=JIra&color=414040)
